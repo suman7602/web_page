@@ -1,0 +1,156 @@
+.top{
+
+    background-color:  red;
+    padding: 10px 30px;
+
+    color: white;
+    border: 1px solid rgb(177, 46, 46);
+    border-color:solid rgb(177, 46, 46) ;
+    border-radius: 32PX;
+}
+.hover {
+    background-color: yellow;
+  }
+.image{
+    text-align: right;
+    padding : 5vh 5vw;
+    
+}
+
+
+//*ul li a::after{
+    content:'';
+    width: 0%;
+    height: 10px;
+    background-color: #f14a60;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -43px;
+    transition: 0.5s;
+  
+}*//
+ul li a:hover::after{
+    width: 100%;
+}
+.main{
+    height: 100vh;
+    width: 98.9vw;
+
+    background:linear-gradient(#ff0c00e6,#0000ff99)
+}
+.heading{
+    font-size: 4rem;
+    margin-top: -30vw;
+    margin-left: 10vw;
+
+   
+    color: rgb(0, 195, 255);
+   
+
+}
+.lorem{
+    color: white;
+    margin-left: 10rem;
+    font-size: 1rem;
+}
+.btn{
+    margin-top: 6rem;
+    margin-left: 10rem;
+}
+.nav-link{
+    margin-right: 2rem ;
+}
+.secpage{
+    display: flex;
+   
+
+}
+.h3{
+    text-align: center;
+    background: linear-gradient(#0000ff99,white
+
+    )
+}
+.algolia{
+    margin-left: 3rem;
+}
+.lapa-logo{
+    margin: 2.5rem;
+}
+.hugo{
+    margin: 2.5rem;
+}
+.codecademy{
+    margin: 2.5rem;
+}
+.aws{
+    margin: 2.5rem;
+}
+.svgstripe{
+    margin: 2.5rem;
+}
+.container{
+    text-align: center;
+    margin-left: 1.7rem;
+}
+.what{
+    text-align: center;
+    
+}
+.price{
+    text-align: center;
+    background-color:blue;
+    
+}
+.card-body{
+    text-align: center;
+    
+}
+.head{
+    font-size: 3rem;
+}
+.container1{
+    
+    margin-left: 19rem;
+}
+
+.C1{
+    margin-left: 6rem;
+}
+.c2{
+    margin-left: 11rem;
+}
+.pok{
+    font-size: 5rem;
+}
+.footer {
+    background: linear-gradient(to top left, #de6161 0%, #2657eb 100%);
+    color: #fff;
+    padding: 3rem 4rem;
+}
+
+.footer h4 {
+    font-size: 1rem;
+    color: #fff;
+    padding-left: 3rem;
+}
+
+.ni {
+    margin-left: 3rem;
+    /* padding: .3rem 0rem; */
+    color: #fff;
+    opacity: 0.8;
+    font-weight: 200;
+    cursor: none;
+}
+
+
+
+
+
+
+
+
+
+
